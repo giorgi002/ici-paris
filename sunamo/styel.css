@@ -1,0 +1,48 @@
+#rtag {
+	display: inline-block;
+	border: solid green;
+	width: 1450px;
+	height: 1900px;
+}
+#ftag {
+	display: inline-block;
+	font-size: 35px;
+	margin-top: 110px;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+}
+#uatag {
+	display: inline-block;
+	width: 350px;
+	height: 290px;
+	transition: 3s; easy-in;
+}
+#uatag:hover {
+	display: inline-block;
+	width: 400px;
+	height: 300px;
+	transition: width 3s; easy-out;
+}
+#eatag {
+
+	margin-left: 70px;
+	width: 350px;
+	height: 400px;
+}
+.cztag {
+
+	margin-top: 10px;
+	font-size: 17px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 450;
+}
+#dbtag {
+	margin-left: 50px;
+    margin-top: -10px;
+	width: 100px;
+}
+#bep {
+	width:  300px;
+	margin-top: 80px;
+}

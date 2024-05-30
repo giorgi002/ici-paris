@@ -1,0 +1,73 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#atag {
+	width: 600px;
+	height: 200px;
+	margin-left: 100px;
+	display: inline-block;
+
+}
+#egg {
+	font-family: "Roboto", sans-serif;
+	font-weight:300;
+	color: #8A8787;
+	font-size: 14px;
+	margin-top: 5px;
+
+}
+#btag {
+	width: 400px;
+	height: 200px;
+	margin-left: 1000px;
+	margin-top: -65px;
+}
+#stag { 
+	text-decoration: none;
+    display: inline-block;
+	margin-left: 80px;
+	margin-top: 10px;
+	color: #8A8787;
+	font-size: 14px;
+}
+#ball {
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 10px;
+	color: #8A8787;
+	font-size: 14px;
+}
+#map {
+	
+	margin: 0 auto ;
+
+	width: 850px;
+	height: 700px;
+	margin-top: -30px;
+}
+#mep {
+	text-align: center;
+	width: 850px;
+	height: 530px;
+ }
+
+
+ #container {
+ 	display: inline-block;
+ 	width: 300px;
+ 	margin: 90px;
+ 	margin-left: 295px;
+ 	margin-top: -100px;
+ 	vertical-align: 100px;
+
+ }
+ #line {
+ 	display:inline-block;
+ 	background-color: #5012D5;
+ 	height: 50px;
+ 	width: 2px;
+ 	background-color: black;
+ 	margin: 0 20px;
+ }
